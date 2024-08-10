@@ -46,8 +46,8 @@ Ensure you have the following software installed on your machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/Reyajul-Islam/Laravel-WordPress-Management-Application.git
+cd Laravel-WordPress-Management-Application
 
 ### 2. Install Dependencies
 
